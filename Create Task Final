@@ -1,5 +1,5 @@
 def greeting():
-
+    
     print("Welcome to this trivia game that will test your knowledge on the black lives meatter movement")
     name=input("enter your name")
     print("Hi there,",name, "Are you ready to start the quiz?")
