@@ -155,6 +155,7 @@ def run():
     User= input("Do you want to retake the quiz? y/n?")
     if User=="y":
         print("retake quiz")
+        run()
     else:
         print("quiz is over")
        
